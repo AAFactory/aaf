@@ -1,5 +1,5 @@
 ﻿# Awesome Application Factory  
-<img src="../images/aaf_dev.png" >   
+<img src="../images/aaf_dev.png" style="border-radius: 5px;width: 80px;height: 80px;">   
 
 ## 1. 개인정보처리방침   
 Awesome Application Factory(이하"AAF")는 영리를 목적으로 하는 법인 또는 개인 사업자가 아닙니다.   
