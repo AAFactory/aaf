@@ -16,6 +16,14 @@ Awesome Application Factory(이하"AAF")는 영리를 목적으로 하는 법인
 * android.permission.FOREGROUND_SERVICE(알림창을 이용한 서비스이용 권한)
 
 ### 2.2. AAF-Easy Photo Map  
+* android.permission.ACCESS_FINE_LOCATION
+* android.permission.ACCESS_COARSE_LOCATION
+* android.permission.ACCESS_NETWORK_STATE
+* android.permission.READ_EXTERNAL_STORAGE(저장소 읽기 권한)
+* android.permission.WRITE_EXTERNAL_STORAGE(저장소 쓰기 권한)
+* android.permission.INTERNET(인터넷 접속 권한)
+* android.permission.CAMERA(카메라 제어 권한)
+
 ### 2.3. AAF-Easy Password  
 ### 2.4. 유소년 스포츠클럽 관리어플 Awesome Manager  
 ### 2.5. Memory Game Remember Miniman  
