@@ -8,7 +8,19 @@ Awesome Application Factory(이하"AAF")는 영리를 목적으로 하는 법인
 만약 사용중인 애플리케이션에 대한 백업 및 복구를 사용자가 원하는경우 사용자의 동의하에 Google의 OAuth인증을 통하여 사용자 개인의 Google Drive에 애플리케이션 데이터를 저장하고 이후 백업 요청 시 사용합니다.   
 백업 데이터는 사용자가 Google Drive에서 별도로 공유설정을 진행하지 않는한 외부로 공개되지 않습니다.   
 
-## 2. 애플리케이션 관련 문의 및 개선요청   
+## 2. 애플리케이션에서 요청하는 권한 및 요청사유  
+### 2.1. AAF-Easy Diary  
+* android.permission.READ_EXTERNAL_STORAGE(저장소 읽기 권한)
+* android.permission.WRITE_EXTERNAL_STORAGE(저장소 쓰기 권한)
+* android.permission.INTERNET(인터넷 접속 권한)
+* android.permission.FOREGROUND_SERVICE(알림창을 이용한 서비스이용 권한)
+
+### 2.2. AAF-Easy Photo Map  
+### 2.3. AAF-Easy Password  
+### 2.4. 유소년 스포츠클럽 관리어플 Awesome Manager  
+### 2.5. Memory Game Remember Miniman  
+
+## 3. 애플리케이션 관련 문의 및 개선요청   
 AAF에서 배포하는 애플리케이션에 대한 문의 및 개선요청 은 아래 2가지 방법으로 가능합니다.   
 * 이메일을 통한 요청
 hanjoongcho@gmail.com
